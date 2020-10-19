@@ -5,7 +5,7 @@
          let btn = document.getElementById('aside');
          let previous = btn.innerHTML;
          if(flag)
-         {btn.innerHTML='you clicked';
+         {btn.innerHTML='<img src="pic.jpg" width=300px>';
             flag=!flag;
          }
          else
