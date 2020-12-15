@@ -1,28 +1,28 @@
-111111
-question111
-opt1111
-opt2111
-opt311
-opt411
+question code: 111111
+Where is Bibi ka makbara
+mumbai
+aurangabad
+nashik
+pune
 ~
-22222
-question222
-opt122
-opt222
-opt322
-opt422
+question code:22222
+what is apple?
+company
+fruit
+newtons bomb
+alien
 ~
-33333
-question333
-opt133
-opt233
-opt333
-opt433
+question code:33333
+your name?
+name
+your name
+nothing
+none of the above
 ~
-44444
-question444
-opt144
-opt244
-opt344
-opt444
+question code : 44444
+this is no question
+ok
+fine
+cool
+1.done
 ~
