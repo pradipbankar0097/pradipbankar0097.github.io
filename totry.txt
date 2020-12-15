@@ -1,28 +1,28 @@
 question code: 111111
-Where is Bibi ka makbara
-mumbai
-aurangabad
-nashik
-pune
+Where is Bibi ka makbara?
+1 mumbai
+2 aurangabad
+3 nashik
+4 pune
 ~
 question code:22222
 what is apple?
-company
-fruit
-newtons bomb
-alien
+1 company
+2 fruit
+3 newtons bomb
+4 alien
 ~
 question code:33333
 your name?
-name
-your name
-nothing
-none of the above
+1 name
+2 your name
+3 nothing
+4 none of the above
 ~
 question code : 44444
-this is no question
-ok
-fine
-cool
-1.done
+this is not a question
+1 ok
+2 fine
+3 cool
+4 hmm
 ~
